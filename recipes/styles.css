@@ -1,0 +1,24 @@
+/* styles.css */
+
+* {
+    background-color: aquamarine;
+}
+
+h1, h2, h3 {
+    color: black;
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+}
+
+ol, ul {
+    font: 200px;
+    color: red;
+}
